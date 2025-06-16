@@ -1,6 +1,6 @@
 # ✨ Java Pattern Programs
 
-This repository contains simple and beginner-friendly Java programs that print different star (`*`) patterns using nested loops. These programs help practice basic loop structures, nested conditions, and formatting logic in Java.
+This repository contains simple and beginner-friendly Java programs that print different star (`*`) patterns using nested loops. 
 
 ---
 
